@@ -3,3 +3,13 @@
     color: white;
     text-align: center;
     }
+    .c1{ 
+        background-image: url(github-social.png);
+        height:500px;
+    }
+    
+    p{
+        font-size: larger;
+        color: white;
+    }
+    
